@@ -28,10 +28,6 @@ Be careful, it doesn't do ANY verifications, if you type price too low when sell
 The script will keep running forever until completion of a single order or canceled (press CTRL+C/CMD+C)
 
 If you like this and made a lot of extra money, feel free to contribute to my beer fund<br/>
-btc: 1DN6jvGZbQkYT9RoCjCVzTs5MwC3xvdmMh<br/>
-ltc: LTT8Gj8nnwBCEGAcapjfLy9EyZtiu6Ntqh<br/>
-usdt TRC20: TYXR6fkC3dKwfSFtEdkgcPVr2em3cPUnT9<br/>
-bnb bsc: 0x8d291FD4413C947559E89F78534400ccaB9BDe92<br>
+btc: 13smN65AfJxW3X2VQjwuxRQ7J7tc2RYpUT<br/>
+bnb: 0x67019bad02031fb015cfbfb2a4b5fd79401786bd<br>
 
-# Help? Bugs?
-https://molibden.io/about/
